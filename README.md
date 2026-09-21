@@ -17,7 +17,7 @@ mas estudo e pratico de forma constante. Já são mais de 5 anos de contato com 
 
 ## 🎯 Objetivo
 Em busca da minha primeira oportunidade na área, com foco em desenvolvimento 
-de software. Estou sempre aprendendo, e no momento, aprofundando conhecimento em MySQL e Go.
+de software. Estou sempre aprendendo, e no momento, aprofundando conhecimento em MySQL e C++.
 
 ## 📫 Contato
 - E-mail: nathanluceat@gmail.com
